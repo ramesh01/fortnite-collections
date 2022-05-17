@@ -18,7 +18,7 @@ function App() {
   const theme = createTheme();
   return (
     <ThemeProvider theme={theme}>
-      <Router>
+      <Router basename={'/fortnite-collections/'}>
       <Appbar />
       <Fortnite />
           <Suspense fallback={<div>Loading...</div>}>
