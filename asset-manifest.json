@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fortnite-collections/static/css/main.83a98832.css",
+    "main.js": "/fortnite-collections/static/js/main.192d36f4.js",
+    "static/css/338.58ae90f3.chunk.css": "/fortnite-collections/static/css/338.58ae90f3.chunk.css",
+    "static/js/338.4f12b018.chunk.js": "/fortnite-collections/static/js/338.4f12b018.chunk.js",
+    "static/css/744.58ae90f3.chunk.css": "/fortnite-collections/static/css/744.58ae90f3.chunk.css",
+    "static/js/744.9668ddeb.chunk.js": "/fortnite-collections/static/js/744.9668ddeb.chunk.js",
+    "static/css/633.58ae90f3.chunk.css": "/fortnite-collections/static/css/633.58ae90f3.chunk.css",
+    "static/js/633.6800cf5a.chunk.js": "/fortnite-collections/static/js/633.6800cf5a.chunk.js",
+    "static/js/787.30386806.chunk.js": "/fortnite-collections/static/js/787.30386806.chunk.js",
+    "static/js/198.677f7088.chunk.js": "/fortnite-collections/static/js/198.677f7088.chunk.js",
+    "index.html": "/fortnite-collections/index.html",
+    "main.83a98832.css.map": "/fortnite-collections/static/css/main.83a98832.css.map",
+    "main.192d36f4.js.map": "/fortnite-collections/static/js/main.192d36f4.js.map",
+    "338.58ae90f3.chunk.css.map": "/fortnite-collections/static/css/338.58ae90f3.chunk.css.map",
+    "338.4f12b018.chunk.js.map": "/fortnite-collections/static/js/338.4f12b018.chunk.js.map",
+    "744.58ae90f3.chunk.css.map": "/fortnite-collections/static/css/744.58ae90f3.chunk.css.map",
+    "744.9668ddeb.chunk.js.map": "/fortnite-collections/static/js/744.9668ddeb.chunk.js.map",
+    "633.58ae90f3.chunk.css.map": "/fortnite-collections/static/css/633.58ae90f3.chunk.css.map",
+    "633.6800cf5a.chunk.js.map": "/fortnite-collections/static/js/633.6800cf5a.chunk.js.map",
+    "787.30386806.chunk.js.map": "/fortnite-collections/static/js/787.30386806.chunk.js.map",
+    "198.677f7088.chunk.js.map": "/fortnite-collections/static/js/198.677f7088.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a98832.css",
+    "static/js/main.192d36f4.js"
+  ]
+}
